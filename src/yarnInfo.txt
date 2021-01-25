@@ -1,0 +1,6 @@
+npm i / npm install //  yarn add [новый пакет]
+yarn // подтягиваем пакет
+npm init // 
+
+npx create-ract-app project-name
+yarn creat react-app project-name
